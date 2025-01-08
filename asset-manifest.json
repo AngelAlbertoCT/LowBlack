@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LowBlack/static/css/main.c023f23e.css",
+    "main.js": "/LowBlack/static/js/main.db80ed72.js",
+    "static/media/IMG_2.png": "/LowBlack/static/media/IMG_2.07a437e410972cad0f3a.png",
+    "static/media/IMG_1.JPG": "/LowBlack/static/media/IMG_1.4669bb2da64fe6a369fa.JPG",
+    "static/media/IMG_4.JPG": "/LowBlack/static/media/IMG_4.2d190d476ab18324e95e.JPG",
+    "static/media/IMG_3.JPG": "/LowBlack/static/media/IMG_3.845238b47e717b6d78d9.JPG",
+    "static/media/u_wanna_feel.jpg": "/LowBlack/static/media/u_wanna_feel.d0728dae4c4a43252cb9.jpg",
+    "static/media/dont_stop.jpg": "/LowBlack/static/media/dont_stop.d97da2e07e9b5e13fd15.jpg",
+    "index.html": "/LowBlack/index.html",
+    "main.c023f23e.css.map": "/LowBlack/static/css/main.c023f23e.css.map",
+    "main.db80ed72.js.map": "/LowBlack/static/js/main.db80ed72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c023f23e.css",
+    "static/js/main.db80ed72.js"
+  ]
+}
