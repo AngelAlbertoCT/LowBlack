@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LowBlack/static/css/main.c023f23e.css",
-    "main.js": "/LowBlack/static/js/main.c048d419.js",
+    "main.js": "/LowBlack/static/js/main.51270546.js",
     "static/media/IMG_2.png": "/LowBlack/static/media/IMG_2.07a437e410972cad0f3a.png",
     "static/media/IMG_1.JPG": "/LowBlack/static/media/IMG_1.4669bb2da64fe6a369fa.JPG",
     "static/media/IMG_4.JPG": "/LowBlack/static/media/IMG_4.2d190d476ab18324e95e.JPG",
@@ -10,10 +10,10 @@
     "static/media/dont_stop.jpg": "/LowBlack/static/media/dont_stop.d97da2e07e9b5e13fd15.jpg",
     "index.html": "/LowBlack/index.html",
     "main.c023f23e.css.map": "/LowBlack/static/css/main.c023f23e.css.map",
-    "main.c048d419.js.map": "/LowBlack/static/js/main.c048d419.js.map"
+    "main.51270546.js.map": "/LowBlack/static/js/main.51270546.js.map"
   },
   "entrypoints": [
     "static/css/main.c023f23e.css",
-    "static/js/main.c048d419.js"
+    "static/js/main.51270546.js"
   ]
 }
